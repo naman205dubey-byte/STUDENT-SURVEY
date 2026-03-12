@@ -34,4 +34,4 @@ Sample Student Store dataset containing:
 - Academic vs Non-academic book comparison
 
 ## Dashboard Preview
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](STUDENT SURVEY.png)
