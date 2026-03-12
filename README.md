@@ -34,5 +34,5 @@ Sample Student Store dataset containing:
 - Academic vs Non-academic book comparison
 
 ## Dashboard Preview
-[![Dashboard Screenshot](STUDENT SURVEY.png)](https://github.com/naman205dubey-byte/STUDENT-SURVEY/blob/main/STUDENT%20SURVEY.png)
+EXAMPLE :![DASHBOARD SCREENSHOT](https://github.com/naman205dubey-byte/STUDENT-SURVEY/blob/main/STUDENT%20SURVEY.png)
 
